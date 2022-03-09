@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+#
+# https://twitter.com/e869120/status/1412179495868534784/photo/2
+#
 
 import sys
 
