@@ -5,6 +5,9 @@
 # 回答部分は下記問題
 # https://atcoder.jp/contests/atc001/tasks/unionfind_a
 #
+# 関連問題
+# https://atcoder.jp/contests/abc229/tasks/abc229_e
+#
 
 class Node:
     def __init__(self, value, parent=None):
