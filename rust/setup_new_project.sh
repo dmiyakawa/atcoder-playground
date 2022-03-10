@@ -28,3 +28,6 @@ echo
 echo "> " cp template.rs "$1/src/main.rs"
 cp template.rs "$1/src/main.rs"
 
+echo
+echo "> " mkdir "$1/inputs/"
+mkdir "$1/inputs/"
