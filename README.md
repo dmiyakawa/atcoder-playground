@@ -1,2 +1,3 @@
-# python-atcoder
-Misc programs for AtCoder
+# About This Repository 
+
+Misc programs for AtCoder, AOJ, and any other Competition Programming
